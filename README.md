@@ -1,4 +1,4 @@
 # first-repo
 this is my first repo
 <br>
-author -mahendra
+author -mahendra pratap singh
